@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ITI Intake 45\\11 - Advanc DB\\DB Project - Examination system(Project)_9M\\Final Project App, DB\\Exam Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AAFC4E-B476-4491-AFA3-66B53DAAC17B}|Exam Form\\Examination_System_App.csproj|g:\\iti intake 45\\11 - advanc db\\db project - examination system(project)_9m\\final project app, db\\exam form\\exam form\\frm_stuapplyprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AAFC4E-B476-4491-AFA3-66B53DAAC17B}|Exam Form\\Examination_System_App.csproj|solutionrelative:exam form\\frm_stuapplyprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AAFC4E-B476-4491-AFA3-66B53DAAC17B}|Exam Form\\Examination_System_App.csproj|g:\\iti intake 45\\11 - advanc db\\db project - examination system(project)_9m\\final project app, db\\exam form\\exam form\\frm_stu_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AAFC4E-B476-4491-AFA3-66B53DAAC17B}|Exam Form\\Examination_System_App.csproj|solutionrelative:exam form\\frm_stu_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AAFC4E-B476-4491-AFA3-66B53DAAC17B}|Exam Form\\Examination_System_App.csproj|g:\\iti intake 45\\11 - advanc db\\db project - examination system(project)_9m\\final project app, db\\exam form\\exam form\\frm_stu_exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AAFC4E-B476-4491-AFA3-66B53DAAC17B}|Exam Form\\Examination_System_App.csproj|solutionrelative:exam form\\frm_stu_exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AAFC4E-B476-4491-AFA3-66B53DAAC17B}|Exam Form\\Examination_System_App.csproj|g:\\iti intake 45\\11 - advanc db\\db project - examination system(project)_9m\\final project app, db\\exam form\\exam form\\frm_stu_coures_exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AAFC4E-B476-4491-AFA3-66B53DAAC17B}|Exam Form\\Examination_System_App.csproj|solutionrelative:exam form\\frm_stu_coures_exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AAFC4E-B476-4491-AFA3-66B53DAAC17B}|Exam Form\\Examination_System_App.csproj|g:\\iti intake 45\\11 - advanc db\\db project - examination system(project)_9m\\final project app, db\\exam form\\exam form\\frm_questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AAFC4E-B476-4491-AFA3-66B53DAAC17B}|Exam Form\\Examination_System_App.csproj|solutionrelative:exam form\\frm_questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AAFC4E-B476-4491-AFA3-66B53DAAC17B}|Exam Form\\Examination_System_App.csproj|g:\\iti intake 45\\11 - advanc db\\db project - examination system(project)_9m\\final project app, db\\exam form\\exam form\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AAFC4E-B476-4491-AFA3-66B53DAAC17B}|Exam Form\\Examination_System_App.csproj|solutionrelative:exam form\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_StuApplyProgram.cs",
+              "DocumentMoniker": "G:\\ITI Intake 45\\11 - Advanc DB\\DB Project - Examination system(Project)_9M\\Final Project App, DB\\Exam Form\\Exam Form\\Frm_StuApplyProgram.cs",
+              "RelativeDocumentMoniker": "Exam Form\\Frm_StuApplyProgram.cs",
+              "ToolTip": "G:\\ITI Intake 45\\11 - Advanc DB\\DB Project - Examination system(Project)_9M\\Final Project App, DB\\Exam Form\\Exam Form\\Frm_StuApplyProgram.cs",
+              "RelativeToolTip": "Exam Form\\Frm_StuApplyProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:09:08.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_Stu_Register.cs",
+              "DocumentMoniker": "G:\\ITI Intake 45\\11 - Advanc DB\\DB Project - Examination system(Project)_9M\\Final Project App, DB\\Exam Form\\Exam Form\\Frm_Stu_Register.cs",
+              "RelativeDocumentMoniker": "Exam Form\\Frm_Stu_Register.cs",
+              "ToolTip": "G:\\ITI Intake 45\\11 - Advanc DB\\DB Project - Examination system(Project)_9M\\Final Project App, DB\\Exam Form\\Exam Form\\Frm_Stu_Register.cs",
+              "RelativeToolTip": "Exam Form\\Frm_Stu_Register.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAjwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:08:55.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_Stu_Exam.cs",
+              "DocumentMoniker": "G:\\ITI Intake 45\\11 - Advanc DB\\DB Project - Examination system(Project)_9M\\Final Project App, DB\\Exam Form\\Exam Form\\Frm_Stu_Exam.cs",
+              "RelativeDocumentMoniker": "Exam Form\\Frm_Stu_Exam.cs",
+              "ToolTip": "G:\\ITI Intake 45\\11 - Advanc DB\\DB Project - Examination system(Project)_9M\\Final Project App, DB\\Exam Form\\Exam Form\\Frm_Stu_Exam.cs",
+              "RelativeToolTip": "Exam Form\\Frm_Stu_Exam.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAtwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:08:35.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frm_Stu_Coures_Exam.cs",
+              "DocumentMoniker": "G:\\ITI Intake 45\\11 - Advanc DB\\DB Project - Examination system(Project)_9M\\Final Project App, DB\\Exam Form\\Exam Form\\Frm_Stu_Coures_Exam.cs",
+              "RelativeDocumentMoniker": "Exam Form\\Frm_Stu_Coures_Exam.cs",
+              "ToolTip": "G:\\ITI Intake 45\\11 - Advanc DB\\DB Project - Examination system(Project)_9M\\Final Project App, DB\\Exam Form\\Exam Form\\Frm_Stu_Coures_Exam.cs",
+              "RelativeToolTip": "Exam Form\\Frm_Stu_Coures_Exam.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAhwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:08:26.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frm_Questions.cs",
+              "DocumentMoniker": "G:\\ITI Intake 45\\11 - Advanc DB\\DB Project - Examination system(Project)_9M\\Final Project App, DB\\Exam Form\\Exam Form\\Frm_Questions.cs",
+              "RelativeDocumentMoniker": "Exam Form\\Frm_Questions.cs",
+              "ToolTip": "G:\\ITI Intake 45\\11 - Advanc DB\\DB Project - Examination system(Project)_9M\\Final Project App, DB\\Exam Form\\Exam Form\\Frm_Questions.cs",
+              "RelativeToolTip": "Exam Form\\Frm_Questions.cs",
+              "ViewState": "AgIAAEACAAAAAAAAAAAewE8CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:08:10.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Frm_Login.cs",
+              "DocumentMoniker": "G:\\ITI Intake 45\\11 - Advanc DB\\DB Project - Examination system(Project)_9M\\Final Project App, DB\\Exam Form\\Exam Form\\Frm_Login.cs",
+              "RelativeDocumentMoniker": "Exam Form\\Frm_Login.cs",
+              "ToolTip": "G:\\ITI Intake 45\\11 - Advanc DB\\DB Project - Examination system(Project)_9M\\Final Project App, DB\\Exam Form\\Exam Form\\Frm_Login.cs",
+              "RelativeToolTip": "Exam Form\\Frm_Login.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:08:04.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 618,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Frm_ExamDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Questions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_StuApplyProgram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_GetCourseTopics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_GetExamQuestionsWithAnswers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_GetExamQuestionsWithChoices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_GetInstructorCourses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_GetStuByDept_SP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_GetStudentGrades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Instructor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Stu_Coures_Exam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Stu_Exam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Stu_Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Examination_SysDataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Examination_SysDataSet1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Examination_SysDataSet2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Examination_SysDataSet3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Examination_SysDataSet4.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Examination_SysDataSet5.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

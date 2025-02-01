@@ -64,15 +64,15 @@ The **ITI Online Examination System** is a Windows Forms application designed to
         Exam questions by Exam ID.
         Student answers for a specific exam.
 
-## 📷Screenshots
+## 📷GIF
+
+![Alt text](Project.gif)
 
 UI Screenshot
 Contributing
 
 If you would like to contribute, please fork the repository and submit a pull request.
-## 📜License
 
-This project is licensed under the MIT License.
 
 
 

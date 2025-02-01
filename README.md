@@ -37,11 +37,10 @@ git clone https://github.com/abdellateefEid/ITI---Online-Examination-System.git
 3. Configure the Database
 
     Restore the database backup (.bak file) in SQL Server.
-    Update the connection string in app.config:
+    Update the connection string in Examination_Sys_Context.cs 
+   protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+       => optionsBuilder.UseSqlServer("Data Source=DESKTOP-AN2B1CQ;Initial Catalog=Examination_Sys;Integrated Security=True;Encrypt=True;TrustServerCertificate=True");
 
-    <connectionStrings>
-        <add name="ExamDB" connectionString="Data Source=YOUR_SERVER;Initial Catalog=ExamDB;Integrated Security=True" providerName="System.Data.SqlClient"/>
-    </connectionStrings>
 
 Usage Instructions
 
@@ -76,34 +75,6 @@ License
 
 This project is licensed under the MIT License.
 
-
-### Explanation of Icons Used:
-
-- 🚀 **Rocket**: Represents **User Authentication** or starting something.
-- ✅ **Checkmark**: Indicates successful or correct features like **Exam Creation**.
-- 📚 **Books**: Represents **Question Bank**.
-- 📝 **Memo**: Represents **Exam Submission**.
-- 🎓 **Graduation Cap**: Represents **Automated Grading**.
-- 📊 **Bar Chart**: Represents **Reporting System**.
-- 💻 **Laptop**: For **Programming Language**.
-- ⚙️ **Gear**: For **Framework**.
-- 🗄️ **File Cabinet**: For **Database**.
-- 🛠️ **Hammer and Wrench**: For **ORM** and **Stored Procedures**.
-- 📑 **Document**: For **Reports**.
-- ▶️ **Play Button**: For **Running the Application**.
-- 🔑 **Key**: For **Login**.
-- 🏠 **House**: For **Navigating the Dashboard**.
-- 📈 **Chart**: For **Generating Reports**.
-- 🗃️ **File Box**: For **Tables** in the database.
-
-These are **Unicode emojis** that can be used directly in markdown and are widely supported on platforms like GitHub, GitLab, etc. 
-
-### Advantages:
-1. No need to store or link files.
-2. Easy to copy-paste and customize.
-3. **Colored** icons are supported across most markdown renderers.
-
-Let me know if this works for you!
 
 
 

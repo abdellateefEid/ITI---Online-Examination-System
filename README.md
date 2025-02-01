@@ -25,7 +25,7 @@ The **ITI Online Examination System** is a Windows Forms application designed to
 
 ### 1️⃣Clone the Repository
 
-git clone https://github.com/abdellateefEid/ITI---Online-Examination-System.git
+    git clone https://github.com/abdellateefEid/ITI---Online-Examination-System.git
 
 ### 2️⃣Install Dependencies
 

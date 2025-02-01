@@ -68,8 +68,8 @@ The **ITI Online Examination System** is a Windows Forms application designed to
 
 ![Alt text](Project.gif)
 
-UI Screenshot
-Contributing
+
+## :memo: Contributing
 
 If you would like to contribute, please fork the repository and submit a pull request.
 

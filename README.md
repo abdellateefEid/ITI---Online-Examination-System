@@ -6,52 +6,27 @@ The ITI Online Examination System is a Windows Forms application designed to aut
 
 ## Features
 
-- User Authentication: Secure login for students and instructors.
-- Exam Creation: Generate and manage exams dynamically.
-- Question Bank: Store and manage exam questions.
-- Exam Submission: Students can take exams and submit answers.
-- Automated Grading: The system evaluates responses and calculates grades.
-- Reporting System: Multiple reports for student performance, instructor courses, and exam details.
+- ![User Authentication Icon](https://img.icons8.com/ios-filled/50/000000/locked.png) **User Authentication**: Secure login for students and instructors.
+- ![Exam Creation Icon](https://img.icons8.com/ios-filled/50/000000/test-tube.png) **Exam Creation**: Generate and manage exams dynamically.
+- ![Question Bank Icon](https://img.icons8.com/ios-filled/50/000000/book.png) **Question Bank**: Store and manage exam questions.
+- ![Exam Submission Icon](https://img.icons8.com/ios-filled/50/000000/checkmark.png) **Exam Submission**: Students can take exams and submit answers.
+- ![Grading Icon](https://img.icons8.com/ios-filled/50/000000/edit.png) **Automated Grading**: The system evaluates responses and calculates grades.
+- ![Reports Icon](https://img.icons8.com/ios-filled/50/000000/report.png) **Reporting System**: Multiple reports for student performance, instructor courses, and exam details.
 
 ## Technology Stack
 
-- Programming Language: C#
-- Framework: .NET (WinForms)
-- Database: SQL Server
-- ORM: Entity Framework Core
-- Reporting Tool: RDLC (Report Definition Language Client-side)
+- ![C# Icon](https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png) **Programming Language**: C#
+- ![DotNet Icon](https://img.icons8.com/ios-filled/50/000000/.net.png) **Framework**: .NET (WinForms)
+- ![SQL Server Icon](https://img.icons8.com/ios-filled/50/000000/microsoft-sql-server.png) **Database**: SQL Server
+- ![Entity Framework Icon](https://img.icons8.com/ios-filled/50/000000/entity-framework.png) **ORM**: Entity Framework Core
+- ![RDLC Icon](https://img.icons8.com/ios-filled/50/000000/pdf.png) **Reporting Tool**: RDLC (Report Definition Language Client-side)
 
 ## Installation & Setup
 
 ### 1. Clone the Repository
 
- git clone https://github.com/abdellateefEid/ITI---Online-Examination-System.git
-
-### 2. Install Dependencies
-
-- Install .NET Framework (if not already installed)
-- Install SQL Server and SQL Server Management Studio (SSMS)
-- Install RDLC Report Viewer (if needed)
-
-### 3. Configure the Database
-
-- Restore the database backup (.bak file) in SQL Server.
-
-- Update the connection string in app.config:
-    <connectionStrings>
-      <add name="ExamDB" connectionString="Data Source=YOUR_SERVER;Initial Catalog=ExamDB;Integrated Security=True" providerName="System.Data.SqlClient"/>
-  </connectionStrings>
-  
-
-## Usage Instructions
-
-1. Run the application using Visual Studio.
-2. Login with student or instructor credentials.
-3. Navigate through the dashboard to create exams, take tests, and view reports.
-4. Generate Reports using RDLC to analyze student performance.
-
-## Database Structure
-
+```sh
+git clone https://github.com/abdellateefEid/ITI---Online-Examination-System.git
 - Tables: Students, Instructors, Courses, Exams, Questions, Answers, Results.
 - Stored Procedures:
   - sp_Select_Insert_Update_Delete for CRUD operations.
